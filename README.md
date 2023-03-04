@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# A React Dashboard using Material UI and Nivo for the charts
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
